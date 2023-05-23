@@ -1,6 +1,6 @@
 import asyncio
 
-#from pytgcalls import idle
+from pytgcalls import idle
 
 from config import call_py
 from Userbot.quote import arq
